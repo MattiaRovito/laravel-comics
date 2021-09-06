@@ -1,4 +1,4 @@
-<header>
+<header class="clearfix">
 
     <div class="logo">
         <img src="{{ asset('img/dc-logo.png')}} " alt="">
